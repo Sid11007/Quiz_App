@@ -1,0 +1,182 @@
+[
+    {
+        "question": "5 + 9",
+        "optionA": "16",
+        "optionB": "14",
+        "optionC": "12",
+        "optionD": "8",
+        "answer": "14"
+    },
+
+    {
+        "question": "9 / 3",
+        "optionA": "3",
+        "optionB": "1",
+        "optionC": "2",
+        "optionD": "4",
+        "answer": "3"
+    },
+
+    {
+        "question": "66 * 2",
+        "optionA": "122",
+        "optionB": "132",
+        "optionC": "145",
+        "optionD": "172",
+        "answer": "132"
+    },
+
+    {
+        "question": "99 - 24",
+        "optionA": "73",
+        "optionB": "56",
+        "optionC": "65",
+        "optionD": "75",
+        "answer": "75"
+    },
+
+    {
+        "question": "29 - 12",
+        "optionA": "17",
+        "optionB": "19",
+        "optionC": "14",
+        "optionD": "18",
+        "answer": "17"
+    },
+
+    {
+        "question": "25 + 15",
+        "optionA": "30",
+        "optionB": "60",
+        "optionC": "40",
+        "optionD": "50",
+        "answer": "40"
+    },
+
+    {
+        "question": "75 / 5",
+        "optionA": "55",
+        "optionB": "35",
+        "optionC": "25",
+        "optionD": "15",
+        "answer": "15"
+    },
+
+    {
+        "question": "29 * 45",
+        "optionA": "1305",
+        "optionB": "1205",
+        "optionC": "1225",
+        "optionD": "1325",
+        "answer": "1305"
+    },
+
+    {
+        "question": "84 + 21",
+        "optionA": "155",
+        "optionB": "145",
+        "optionC": "105",
+        "optionD": "115",
+        "answer": "105"
+    },
+
+    {
+        "question": "355 / 25",
+        "optionA": "17.2",
+        "optionB": "14.2",
+        "optionC": "15.3",
+        "optionD": "17.35",
+        "answer": "14.2"
+    },
+
+    {
+        "question": "845 - 257",
+        "optionA": "578",
+        "optionB": "588",
+        "optionC": "569",
+        "optionD": "598",
+        "answer": "588"
+    },
+
+    {
+        "question": "45 + 27",
+        "optionA": "72",
+        "optionB": "62",
+        "optionC": "42",
+        "optionD": "82",
+        "answer": "72"
+    },
+
+    {
+        "question": "7 * 381",
+        "optionA": "2667",
+        "optionB": "2337",
+        "optionC": "2457",
+        "optionD": "2697",
+        "answer": "2667"
+    },
+
+    {
+        "question": "77 + 51",
+        "optionA": "138",
+        "optionB": "198",
+        "optionC": "148",
+        "optionD": "128",
+        "answer": "128"
+    },
+
+    {
+        "question": "44 / 4",
+        "optionA": "12",
+        "optionB": "11",
+        "optionC": "13",
+        "optionD": "15",
+        "answer": "11"
+    },
+
+    {
+        "question": "2 * 23",
+        "optionA": "84",
+        "optionB": "44",
+        "optionC": "46",
+        "optionD": "59",
+        "answer": "46"
+    },
+
+    {
+        "question": "55 + 89",
+        "optionA": "144",
+        "optionB": "225",
+        "optionC": "96",
+        "optionD": "120",
+        "answer": "144"
+    },
+
+    {
+        "question": "98 / 4",
+        "optionA": "29.5",
+        "optionB": "24.5",
+        "optionC": "28",
+        "optionD": "17",
+        "answer": "24.5"
+    },
+
+    {
+        "question": "67 * 55",
+        "optionA": "3685",
+        "optionB": "7784",
+        "optionC": "2995",
+        "optionD": "3885",
+        "answer": "3685"
+    },
+
+    {
+        "question": "887 + 665",
+        "optionA": "1452",
+        "optionB": "1456",
+        "optionC": "2552",
+        "optionD": "1552",
+        "answer": "1552"
+    }
+
+]
